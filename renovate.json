@@ -28,9 +28,17 @@
       "rangeStrategy": "bump"
     },
     {
-      "description": "Automerge submodule update",
+      "description": "Group and automerge openmcp-project/build updates (GitHub Actions + hack/common submodule) into a single PR",
+      "groupName": "openmcp-project/build",
+      "groupSlug": "openmcp-build",
       "automerge": true,
-      "matchPackageNames": ["hack/common"]
+      "automergeType": "pr",
+      "matchManagers": ["github-actions", "git-submodules"],
+      "matchPackageNames": [
+        "hack/common",
+        "openmcp-project/build",
+        "/^openmcp-project/build/"
+      ]
     },
     {
       "description": "Update and automerge all components from openmcp-project immediately in one singe PR",
