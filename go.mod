@@ -9,7 +9,7 @@ require (
 	github.com/onsi/gomega v1.41.0
 	github.com/openmcp-project/controller-utils v0.28.0
 	github.com/openmcp-project/openmcp-operator/lib v0.19.1
-	github.com/openmcp-project/platform-service-quota/api v1.0.0
+	github.com/openmcp-project/platform-service-quota/api v1.0.1
 	github.com/spf13/cobra v1.10.2
 	k8s.io/api v0.36.1
 	k8s.io/apimachinery v0.36.1
