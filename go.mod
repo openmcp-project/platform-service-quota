@@ -11,8 +11,8 @@ require (
 	github.com/openmcp-project/openmcp-operator/lib v0.19.1
 	github.com/openmcp-project/platform-service-quota/api v1.0.1
 	github.com/spf13/cobra v1.10.2
-	k8s.io/api v0.36.1
-	k8s.io/apimachinery v0.36.1
+	k8s.io/api v0.36.2
+	k8s.io/apimachinery v0.36.2
 	sigs.k8s.io/controller-runtime v0.24.1
 	sigs.k8s.io/yaml v1.6.0
 )
@@ -53,11 +53,11 @@ require (
 	google.golang.org/genproto/googleapis/api v0.0.0-20260226221140-a57be14db171 // indirect
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20260226221140-a57be14db171 // indirect
 	google.golang.org/grpc v1.81.1 // indirect
-	k8s.io/apiextensions-apiserver v0.36.1 // indirect
-	k8s.io/apiserver v0.36.1 // indirect
-	k8s.io/client-go v0.36.1 // indirect
-	k8s.io/component-base v0.36.1 // indirect
-	k8s.io/streaming v0.36.1 // indirect
+	k8s.io/apiextensions-apiserver v0.36.2 // indirect
+	k8s.io/apiserver v0.36.2 // indirect
+	k8s.io/client-go v0.36.2 // indirect
+	k8s.io/component-base v0.36.2 // indirect
+	k8s.io/streaming v0.36.2 // indirect
 	k8s.io/utils v0.0.0-20260507154919-ff6756f316d2 // indirect
 	sigs.k8s.io/apiserver-network-proxy/konnectivity-client v0.34.0 // indirect
 )
