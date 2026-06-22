@@ -5,7 +5,7 @@ go 1.26.4
 replace github.com/openmcp-project/platform-service-quota/api => ./api
 
 require (
-	github.com/onsi/ginkgo/v2 v2.31.0
+	github.com/onsi/ginkgo/v2 v2.32.0
 	github.com/onsi/gomega v1.42.0
 	github.com/openmcp-project/controller-utils v0.29.1
 	github.com/openmcp-project/openmcp-operator/lib v1.0.1
