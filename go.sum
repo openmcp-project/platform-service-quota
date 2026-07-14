@@ -141,8 +141,8 @@ github.com/openmcp-project/controller-utils v0.31.0 h1:eFMUUoMT3rTV6xJaX9br13paV
 github.com/openmcp-project/controller-utils v0.31.0/go.mod h1:QU2JeLMb01XEpLYx5TBI3Nihkg82k07/vNIBmGpHal0=
 github.com/openmcp-project/openmcp-operator/api v1.3.0 h1:RgetVDqslJPD7/nb65AbqWYtwM1qJf0ePgf0uJiEcQQ=
 github.com/openmcp-project/openmcp-operator/api v1.3.0/go.mod h1:GMCkaGUND5Qu3zTNjpYtR44her8gcOksHkrJu5isL6I=
-github.com/openmcp-project/openmcp-operator/lib v1.2.0 h1:sa1IYTTEAVzqDjdeCcQZZ+R8tm2AlUXNmaTfKBrVtN4=
-github.com/openmcp-project/openmcp-operator/lib v1.2.0/go.mod h1:tCdWp5FQOM1m49OByNeUYJQxk+n2YtgMF7RMJ5U22ks=
+github.com/openmcp-project/openmcp-operator/lib v1.3.0 h1:Icx40/Qx/85+E8vWTMi1jW1WrX/MFN+FaZTDt7JWcRU=
+github.com/openmcp-project/openmcp-operator/lib v1.3.0/go.mod h1:+Ptr+38neYaoGzEdY5zhR3uhfKqNZ2J9tyOcc15S7EY=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
 github.com/pmezard/go-difflib v1.0.1-0.20181226105442-5d4384ee4fb2 h1:Jamvg5psRIccs7FGNTlIRMkT8wgtp5eCXdBlqhYGL6U=
 github.com/pmezard/go-difflib v1.0.1-0.20181226105442-5d4384ee4fb2/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
