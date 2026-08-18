@@ -1,6 +1,6 @@
 module github.com/openmcp-project/platform-service-quota
 
-go 1.26.5
+go 1.26.6
 
 replace github.com/openmcp-project/platform-service-quota/api => ./api
 
