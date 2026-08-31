@@ -1,10 +1,10 @@
 module github.com/openmcp-project/platform-service-quota/api
 
-go 1.26.6
+go 1.27.0
 
 require (
-	github.com/openmcp-project/controller-utils v0.31.0
-	github.com/openmcp-project/openmcp-operator/api v1.3.0
+	github.com/openmcp-project/controller-utils v0.33.0
+	github.com/openmcp-project/openmcp-operator/api v1.4.0
 	k8s.io/api v0.36.4
 	k8s.io/apiextensions-apiserver v0.36.4
 	k8s.io/apimachinery v0.36.4
@@ -21,7 +21,7 @@ require (
 	github.com/evanphx/json-patch/v5 v5.9.11 // indirect
 	github.com/fsnotify/fsnotify v1.10.1 // indirect
 	github.com/fxamacker/cbor/v2 v2.9.2 // indirect
-	github.com/go-logr/logr v1.4.3 // indirect
+	github.com/go-logr/logr v1.4.4 // indirect
 	github.com/go-logr/zapr v1.3.0 // indirect
 	github.com/go-openapi/jsonpointer v0.23.1 // indirect
 	github.com/go-openapi/jsonreference v0.21.5 // indirect

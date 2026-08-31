@@ -1,15 +1,15 @@
 module github.com/openmcp-project/platform-service-quota
 
-go 1.26.6
+go 1.27.0
 
 replace github.com/openmcp-project/platform-service-quota/api => ./api
 
 require (
-	github.com/onsi/ginkgo/v2 v2.32.0
+	github.com/onsi/ginkgo/v2 v2.32.1
 	github.com/onsi/gomega v1.42.1
-	github.com/openmcp-project/controller-utils v0.31.0
-	github.com/openmcp-project/openmcp-operator/api v1.3.0
-	github.com/openmcp-project/openmcp-operator/lib v1.3.0
+	github.com/openmcp-project/controller-utils v0.33.0
+	github.com/openmcp-project/openmcp-operator/api v1.4.0
+	github.com/openmcp-project/openmcp-operator/lib v1.4.0
 	github.com/openmcp-project/platform-service-quota/api v1.1.0
 	github.com/spf13/cobra v1.10.2
 	k8s.io/api v0.36.4
@@ -32,7 +32,7 @@ require (
 	github.com/felixge/httpsnoop v1.0.4 // indirect
 	github.com/fsnotify/fsnotify v1.10.1 // indirect
 	github.com/fxamacker/cbor/v2 v2.9.2 // indirect
-	github.com/go-logr/logr v1.4.3 // indirect
+	github.com/go-logr/logr v1.4.4 // indirect
 	github.com/go-logr/stdr v1.2.2 // indirect
 	github.com/go-logr/zapr v1.3.0 // indirect
 	github.com/go-openapi/jsonpointer v0.23.1 // indirect
@@ -81,7 +81,7 @@ require (
 	go.uber.org/zap v1.28.0 // indirect
 	go.yaml.in/yaml/v2 v2.4.4 // indirect
 	go.yaml.in/yaml/v3 v3.0.4 // indirect
-	golang.org/x/exp v0.0.0-20260709172345-9ea1abe57597 // indirect
+	golang.org/x/exp v0.0.0-20260727155853-b88d891fe743 // indirect
 	golang.org/x/mod v0.38.0 // indirect
 	golang.org/x/net v0.57.0 // indirect
 	golang.org/x/oauth2 v0.36.0 // indirect
