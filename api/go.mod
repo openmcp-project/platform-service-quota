@@ -1,6 +1,6 @@
 module github.com/openmcp-project/platform-service-quota/api
 
-go 1.27.0
+go 1.27.1
 
 require (
 	github.com/openmcp-project/controller-utils v0.33.0
