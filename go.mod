@@ -10,7 +10,7 @@ require (
 	github.com/openmcp-project/controller-utils v0.33.3
 	github.com/openmcp-project/openmcp-operator/api v1.4.3
 	github.com/openmcp-project/openmcp-operator/lib v1.4.3
-	github.com/openmcp-project/platform-service-quota/api v1.2.3
+	github.com/openmcp-project/platform-service-quota/api v1.2.4
 	github.com/spf13/cobra v1.10.2
 	k8s.io/api v0.37.1
 	k8s.io/apimachinery v0.37.1
